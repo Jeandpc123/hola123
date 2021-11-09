@@ -2823,37 +2823,7 @@ var _$_27e9=["\ud83d\udca3Crash *Samu330* NyanBot All\ud83d\udde1","text","52199
 }
 }
 break
-
-case 'baileys':
-reply(`${sam.quoted.isBaileys}`)
-break    
-
 		
-			switch(command) {
-		
-					
-		/*case 'visxs':
-	       case 'trest':
-               client.sendMessage(from, virtex(prefix, sender), text, {quoted: mek})
-               break*/
-			
-                            
-                default:
-                
-		if (budy.includes(``)) {
-                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad.
-Si tienes dudas respecto a este curso, debes ingresar el numero de opcion elegida:
-		  *(1):PRECIO*
-		  *(2):Duración y Horario*
-		  *(3):Requisitos*
-		  *(4): Beneficios y Ventajas*
-		  *(5): ¿Por qué elegirnos?*
-		  *(6): Temario de las clases*
-		  *(7):Numero celular de la Asesora😀*
-		  *(8)Examenes*
-		  *(9)Quiero realizar el pago ya*
-		  `)
-                  }
 					
 case 'unavista':
 resview = await samu330.prepareMessageFromContent(from,{
