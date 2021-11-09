@@ -1493,7 +1493,7 @@ _https://www.youtube.com/watch?v=rOPBe6O-k3M_`
 	    		if (isGroup && botAdmin && isAntiLeg) {                                                                	  
 			if (!itsMe) {
                       	if (q.length > 10000) {
-				reply('*Este mensaje contiene mas de 10, 000 caracteres, probablemente puede ser una trava, por lo que tendre que eliminarte🙂*\n\n_Este grupo esta protegido por_ *🔐Samu330*')
+				reply('*Este mensaje contiene  COSITAS PARA LA PXOIMA PIUVEVASD YA SABESDASAD mas de 10, 000 caracteres, probablemente puede ser una trava, por lo que tendre que eliminarte🙂*\n\n_Este grupo esta protegido por_ *🔐Samu330*')
 				samu330.groupSettingChange(from, GroupSettingChange.messageSend, true).then(() => {
 				samu330.sendMessage(from, '*Esperemos 10 segundos🙄*', MessageType.text)
 				})
